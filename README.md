@@ -1,7 +1,9 @@
 # Data-Sci-Projects
+
+## Project 1 - Global Superstore Dashboard
 Overview
 
-The Global Superstore Analytics Dashboard is an interactive and comprehensive visualization tool designed to provide actionable insights into sales performance, customer behavior, and order trends. It consists of three key pages:
+The Global Superstore Dashboard is an interactive and comprehensive visualization tool designed to provide actionable insights into sales performance, customer behavior, and order trends. It consists of three key pages:
 
 1. Sales Overview
 - Total Orders: Displays the cumulative number of orders.
