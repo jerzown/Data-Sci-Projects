@@ -42,3 +42,26 @@ Key Benefits
 - Comprehensive Insights: Enables data-driven decisions by providing detailed views of business performance.
 - Customer Behavior Analysis: Identifies high-value customers and market segments.
 - Operational Efficiency: Helps in optimizing inventory and sales strategies.
+
+## Project 2 - Financials Executive Dashboard
+Overview
+
+This Power BI Financials Executive Dashboard provides key insights into Sales and Customer Analytics in a single, streamlined page. It is designed to help executives quickly understand performance metrics, customer reach, and profitability trends for data-driven decision-making.
+
+1. Sales Analytics - This section focuses on tracking sales performance and profitability trends. Key insights include:
+- Total Sales: Provides the cumulative revenue generated.
+- Total Units Sold: Displays the number of products sold.
+- Most Profitable Products: Identifies top-performing products by profit margins.
+- Monthly Sales vs. COGS: Compares monthly sales with the cost of goods sold to analyze profitability patterns over time.
+
+2. Customer Analytics - This section highlights customer reach and order distribution across different segments. Key insights include:
+- Countries Reached: Visualizes the geographical spread of customer base.
+- Profit by Country and Segment: Breaks down profitability by country and customer segment.
+- Distribution of Orders by Segment: Shows order volume distribution across different customer segments.
+
+The data used in this dashboard is sourced from Power BI Sample Dataset.
+
+Key Benefits
+- Data-Driven Insights: Helps executives quickly identify sales trends and opportunities for growth.
+- Interactive Visuals: Allows filtering and drilling down into specific regions or segments for deeper analysis.
+- Single Page Design: Clean and focused layout ensures information is easy to consume.
