@@ -35,9 +35,6 @@ The Global Superstore Dashboard is an interactive and comprehensive visualizatio
 The data used in this dashboard is sourced from the Global Superstore Dataset.
 Link: https://www.kaggle.com/datasets/fatihilhan/global-superstore-dataset
 
-Citation:
-Superstore Dataset, Sample - Superstore.xls, Tableau Community.
-
 Key Benefits
 - Comprehensive Insights: Enables data-driven decisions by providing detailed views of business performance.
 - Customer Behavior Analysis: Identifies high-value customers and market segments.
@@ -65,3 +62,27 @@ Key Benefits
 - Data-Driven Insights: Helps executives quickly identify sales trends and opportunities for growth.
 - Interactive Visuals: Allows filtering and drilling down into specific regions or segments for deeper analysis.
 - Single Page Design: Clean and focused layout ensures information is easy to consume.
+
+## Project 3 - HR Analytics Dashboard
+Overview
+
+This Power BI HR Analytics Dashboard provides key insights into Employee Attrition Patterns in a single, streamlined page. It is designed to help HR and Management Teams quickly understand attrition rates, key influencers, and department-level trends for data-driven decision-making.
+
+1. Employee Attrition Analytics - This section focuses on tracking employee turnover and identifying key influencers of attrition. Key insights include:
+
+- Total Employees: Displays the total workforce count.
+- Attrited Employees: Shows the number of employees who have left the organization.
+- % Attrition: Percentage of employees who have attrited.
+- Employee Attrition Influencers: Analyzes factors like Department, Role, and Salary Slab that drive employee turnover.
+- Attrition by Department: Visualizes which departments have the highest attrition rates.
+- Attrition by Salary Slab: Analyzes attrition patterns across different salary levels.
+- Attrition Rate per Role: Identifies roles with the highest turnover.
+
+The data used in this dashboard is sourced from the HR Analytics Dataset
+Link: https://www.kaggle.com/datasets/saadharoon27/hr-analytics-dataset
+
+
+Key Benefits
+- Comprehensive Insights: Empowers data-driven decisions by offering a clear view of employee attrition patterns and key influencing factors.
+- Employee Behavior Analysis: Identifies high-risk departments, roles, and salary slabs contributing to turnover.
+- Strategic Workforce Planning: Helps optimize retention strategies and improve employee satisfaction.
