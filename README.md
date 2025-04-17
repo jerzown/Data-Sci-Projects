@@ -86,3 +86,36 @@ Key Benefits
 - Comprehensive Insights: Empowers data-driven decisions by offering a clear view of employee attrition patterns and key influencing factors.
 - Employee Behavior Analysis: Identifies high-risk departments, roles, and salary slabs contributing to turnover.
 - Strategic Workforce Planning: Helps optimize retention strategies and improve employee satisfaction.
+
+## Project 4 - Marketing Campaign Analytics Dashboard
+Overview
+The Marketing Campaign Analytics Dashboard is a powerful visualization tool developed in Power BI to monitor, analyze, and optimize digital marketing performance across multiple channels. This single-page dashboard helps marketing teams and executives understand the effectiveness of campaigns, track costs, and evaluate performance metrics per channel.
+
+Key Insights
+Overall Campaign Metrics
+- Total Campaigns: Displays the cumulative number of marketing campaigns conducted (167K).
+- Total Acquisition Cost: Shows the overall investment in campaigns (2.08 billion).
+- Success Rate: Represents the percentage of campaigns that achieved their goals (11.00%).
+
+Campaign Outcome Analysis
+- Successful vs. Failed Campaigns: Visualizes the number of campaigns that succeeded (18K) versus those that failed (148K), offering a quick view of campaign performance.
+- Total Cost of Failed vs. Successful Campaigns per Channel: A breakdown of the cost associated with failed and successful campaigns across Email, Google Ads, Instagram, YouTube, and Facebook, helping identify cost-efficiency per channel.
+
+Channel-Specific KPIs
+Key Performance Indicators (KPIs):
+- Total Clicks
+- Total Impressions
+- Average Click-Through Rate (CTR)
+- Each marketing channel (Facebook, Instagram, YouTube, Google Ads, Email) is evaluated across these three metrics, providing granular insight into channel effectiveness.
+
+Lead Generation Performance
+- Total Leads per Channel: Measures lead acquisition across channels, with each channel (Email, Google Ads, YouTube, Instagram, Facebook) contributing equally (2.7K), indicating a balanced performance in lead generation.
+
+The data used in this dashboard is sourced from the Marketing Campaign Performance Dataset
+https://www.kaggle.com/datasets/manishabhatt22/marketing-campaign-performance-dataset
+
+Key Benefits
+- Data-Driven Campaign Optimization: Enables quick identification of high-performing and underperforming channels.
+- Cost Efficiency Insights: Breaks down cost effectiveness by campaign type and channel, supporting budget reallocation decisions.
+- Channel Performance Comparison: Offers a side-by-side view of CTR, impressions, and leads across platforms to refine strategy.
+- User-Friendly Visuals: Interactive and color-coded visuals help stakeholders easily interpret data and derive insights.
