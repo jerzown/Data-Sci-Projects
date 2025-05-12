@@ -119,3 +119,39 @@ Key Benefits
 - Cost Efficiency Insights: Breaks down cost effectiveness by campaign type and channel, supporting budget reallocation decisions.
 - Channel Performance Comparison: Offers a side-by-side view of CTR, impressions, and leads across platforms to refine strategy.
 - User-Friendly Visuals: Interactive and color-coded visuals help stakeholders easily interpret data and derive insights.
+
+## Project 5 - Website Performance Analytics Dashboard
+Overview
+The Website Performance Analytics Dashboard is a two-page Power BI report designed to provide comprehensive insights into website traffic, user sessions, and engagement behavior. It helps teams understand when and how users interact with the site, offering actionable data to enhance performance and experience.
+
+Key Insights:
+Session Analysis
+- Total Sessions: Displays the cumulative number of sessions.
+- Total Users: Shows the total number of unique users.
+- Total Events: Tracks the total count of user-triggered events.
+- Avg Sessions per User: Average number of sessions per unique user.
+- Avg Events per Session: Average number of events triggered per session.
+- Total Sessions, Events, and Users by Time of Day: Visualizes key metrics across different times.
+- Top 5 Timestamps with Most Traffic: Tabular view of the peak traffic times.
+- # of Sessions and Users by Hour: Ribbon chart showing hourly engagement trends.
+
+User Engagement Analysis:
+- Total Sessions: Cumulative number of sessions analyzed.
+- Total Engaged Sessions: Number of sessions marked as engaged.
+- Avg Engagement Rate: Average rate of user engagement.
+- Total Sessions and Engaged Sessions by Time of Day: Column chart comparing overall vs. engaged sessions.
+- Top 5 Timestamps with Most Traffic: Table displaying time slots with highest activity.
+- # of Sessions and Engaged Sessions by Hour: Ribbon chart visualizing engagement distribution by hour.
+
+Additional Features:
+- Channel Filters: Interactive slicers allowing users to filter all visuals by marketing channel (e.g., Organic, Social, Email, Referral).
+- Q&A Visual: Embedded natural language interface that allows users to ask data questions like “What hour has the most engaged sessions?” and receive instant visual responses.
+
+Dataset Source
+The data used in this dashboard is sourced from Website Performance: Case Study from Statso (https://statso.io/website-performance-case-study/#google_vignette).
+
+Key Benefits
+- Real-Time Traffic Insights: Helps identify peak usage times and top-performing content windows.
+- User Engagement Analysis: Measures how effectively users interact with the website.
+- Custom Channel Filters: Supports channel-specific performance review and optimization.
+- Self-Service BI: Empowers users to explore data freely with the integrated Q&A feature.
